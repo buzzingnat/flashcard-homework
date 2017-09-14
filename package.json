@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-homework",
+  "version": "1.0.0",
+  "description": "A node.js app that allows users to create two types of flashcards: Basic flashcards, which have a front and a back; Cloze-Deleted flashcards, which present partial text.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzzingnat/flashcard-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buzzingnat/flashcard-homework/issues"
+  },
+  "homepage": "https://github.com/buzzingnat/flashcard-homework#readme",
+  "dependencies": {
+    "inquirer": "3.2.3"
+  }
+}
